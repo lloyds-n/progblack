@@ -1,4 +1,5 @@
 #Drinks
 ##Fizzy
-*Fanta
+*Fants
 *Coke
+*rubicon
